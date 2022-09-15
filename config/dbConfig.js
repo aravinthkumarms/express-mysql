@@ -1,7 +1,7 @@
 module.exports = {
     HOST: "localhost",
     USER: "root",
-    PASSWORD: "redmi100",
+    PASSWORD: "",
     DB: "Express",
     dialet: "mysql",
 
